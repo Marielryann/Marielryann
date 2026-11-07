@@ -1,4 +1,3 @@
-[README-Marielryann.md](https://github.com/user-attachments/files/34506712/README-Marielryann.md)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1d4ed8,100:06b6d4&height=210&section=header&text=Mariel%20Ryan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Desenvolvimento%20Web&descAlignY=58&descSize=18" alt="Banner animado: Mariel Ryan — Estudante de ADS e Desenvolvimento Web" />
 </p>
